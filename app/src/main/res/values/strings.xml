@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="txtTitulo">Calculadora</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtResultados">2+2=4</string>
+    <string name="txtOperacion">2+2</string>
+    <string name="anchoButton">115dp</string>
+
+    <!-- Botones -->
+    <string name="txtButton0">0</string>
+    <string name="txtButton1">1</string>
+    <string name="txtButton2">2</string>
+    <string name="txtButton3">3</string>
+    <string name="txtButton4">4</string>
+    <string name="txtButton5">5</string>
+    <string name="txtButton6">6</string>
+    <string name="txtButton7">7</string>
+    <string name="txtButton8">8</string>
+    <string name="txtButton9">9</string>
+    <string name="txtButtonIgual">=</string>
+    <string name="txtButtonSuma">+</string>
+    <string name="txtButtonMult">*</string>
+    <string name="txtButtonRest">-</string>
+    <string name="txtButtonDiv">/</string>
+    <string name="txtButtonCE">CE</string>
+    <string name="txtButtonC">C</string>
+
+</resources>
